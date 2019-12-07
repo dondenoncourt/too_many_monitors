@@ -69,11 +69,6 @@ I could write a whole piece on my editor of choice -- Mac Vim. But I’ve seen m
 
 Back to my comment about viewable height of code, If I have a huge file I split the source or use folding option. Most IDEs have this feature.
 
-
-(https://www.google.com/url?q=https://stackoverflow.com/questions/2362914/fold-function-in-vim&sa=U&ved=0ahUKEwj5yoPX67rlAhWyo1kKHbdrA_UQFggNMAA&usg=AOvVaw2hsSzhnTkvCUXYmVDeVT9R)
-
-[Screen shot showing folding]
-
 When my MVim tabs get past 3 or 4, I close some. If I have a crazy amount of splits in one tab, I close some sections. If I have a beautiful set of split code windows showing insightful information, I take a screenshot and name the image appropriately.
 
 ### Browser
@@ -93,10 +88,7 @@ Slack is a wonderful piece of software. But it is noise as it has the human inte
 I always use a crisp font san-serif. A bit of an aside on how I remember what san-sarif is:
 Omar Sarif was the mustasiod man of Dr. Shivago and Lawrence of Arabia. He had a thick richly curly mustache. San means without so pick a font without thickly curly mustaches.
 
-I also use an easily readable font size. That would be two-thirds times bigger than the smallest you can read. If you got to
-https://www-archive.mozilla.org/newlayout/testcases/css/sec526pt2.htm
-
-You can see that that is for you. For me the smallest font size I can read is 4 so that suggests that I should use 8 or 14 for my standard font size. When my eyes get tired, I increase my font size. The Control plus, or minus works in most apps on my mac including Vim and Chrome.
+I also use an easily readable font size. That would be two-thirds times bigger than the smallest you can read. If you visit [Mozilla](https://www-archive.mozilla.org/newlayout/testcases/css/sec526pt2.htm) You can see that that is for you. For me the smallest font size I can read is 4 so that suggests that I should use 8 or 14 for my standard font size. When my eyes get tired, I increase my font size. The Control plus, or minus works in most apps on my mac including Vim and Chrome.
 For code reading, as to color, I recommend black on white or black on yellowish better than dark mode. The only time I use dark mode when it is, well, dark, where I am working. (See
 https://www.essilorusa.com/newsroom/be-careful-color-and-font-choice-could-hurt-your-eyes)
 
