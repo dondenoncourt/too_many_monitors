@@ -1,19 +1,19 @@
-And if you do only have one monitor... It's probably too big. I work exclusively off my Macbook pro. No external monitor. No mouse. I recently started a new development job where their twenty-five or so devs are treated well. Everybody gets the tools they believe will help them be productive. Even though I'm one of a half-a-dozen remote developers, I was required to be on site for my first week. I got my brand new Mac and sat down at my designated work area. It had a monstrosity of a monitor, an external keyboard, and a mouse. The coder beside me was the guy that recruited me. I'd known him for over a decade. I picked up the mouse by its tail, dangled it in mid air and said: "What's this?"
+And if you do have only one monitor... It's probably too big. I work exclusively off my Macbook pro. No external monitor. No mouse. I recently started a ob where their twenty-five or so developers are treated well. Everybody gets the tools they believe will help them be productive. Even though I'm one of a half-a-dozen remote developers, I was required to be on site  my first week. I got my brand new Mac and sat down at my designated work area. It had a monstrosity of a monitor, an external keyboard, and a mouse. The coder beside me was the guy that recruited me. I'd known him for over a decade. I picked up the mouse by its tail, dangled it in mid air and said: "What's this?"
 
 My problems were just beginning. I plugged in the mouse and keyboard. Apparently, even after a  couple years of rodent free development, I was still able to use a mouse. But when I plugged in the monitor, the iMax-like screen scared me. I yelped and pushed my roller chair back into another programmer (who was otherwise happily coding on a similar Mac and monster screen configuration.) I apologized and rolled back to my workspace. I figured I better use this somewhat standard configuration or I'd look like I was more familiar with mainframe mouse-less green screens (of which I am very familiar.)
 
 A half-day later I unplugged the mouse (resisting the urge to step on it) and disconnected the keyboard. Moving my hand continually away from the keyboard seemed a waste of time. My thumbs worked the Mac trackpad quite effortlessly. But I kept the iMax screen attached. I was being on-boarded by my friend and the monitor made it easier for him to see my screen from his pod beside me.
 
-The next day, I gave up on the monster monitor. I unplugged the screen and happily went back to the workspace configuration with which I felt most productive: the MacBook pro monitor, keyboard, and trackpad.
+The next day, I gave up on the monster monitor. I unplugged the screen and happily went back to the workspace configuration with which I felt most productive: the MacBook Pro monitor, keyboard, and trackpad.
 
 ## What's my deal with monster monitors?
 
-What was wrong with the endless real estate of my grandios monitor? Developers love them. My nephew, a Drexel grad, has three of them -- forming a one eighty around him -- in his home office. Let me give a quick rundown on my issues with the iMax monitor madness before elaborating in detail in the remainder of this post:
+What was wrong with the endless real estate of a grandios monitor? Developers love them. My nephew, a Drexel grad, has three of them -- forming a one eighty around him -- in his home office. Let me give a quick rundown on my issues with the iMax monitor madness before elaborating in detail in the remainder of this post:
 
- 1. The font was too big and my eyes labored over them like text on neon signs.
- 2. The width of the editor was too wide, my eyes tired from incessant movement, and I was less able to grok code quickly.
- 3. The browser and editor windows were so far apart that my neck tired from side to side movements.
- 4. Noise. The voluptuous windows of the editor, browser, Slack, bash, and documentation were distracting.
+ 1) The font was too big and my eyes labored over them like text on neon signs.
+ 2) The width of the editor was too wide, my eyes tired from incessant movement, and I was less able to grok code quickly.
+ 3) The browser and editor windows were so far apart that my neck tired from side to side movements.
+ 4) Noise. The voluptuous windows of the editor, browser, Slack, bash, and documentation were distracting.
 
 Balderdash you say. Studies have shown that developers are more productive with, not just big monitors, but multiple monitors. Understand that these studies were financed by monitor manufacturers.
 
