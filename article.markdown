@@ -65,7 +65,7 @@ First note that I hide the top window on my Mac. That gives me an itty bitty bit
 
 And I also shrink the dock icon size.
 
-![alt text](https://github.com/dondenoncourt/too_many_monitors/blob/master/screen%20dock%20bar.png)
+![alt text](https://github.com/dondenoncourt/too_many_monitors/blob/master/screen%20dock.png)
 
 ### Editor
 
