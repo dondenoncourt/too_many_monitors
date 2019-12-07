@@ -59,7 +59,11 @@ Others: Like Activity Monitor, SQL Editor, and Evernote,  get plopped in the mid
 
 ![alt text](https://github.com/dondenoncourt/too_many_monitors/blob/master/screen%20full.png)
 
-First note that I hide the top window on my Mac. That gives me an itty bitty bit more real estate. If I move my mouse up, the top menu appears -- otherwise you don’t  need it and it’s noise. And I also shrink the dock icon size.
+First note that I hide the top window on my Mac. That gives me an itty bitty bit more real estate. If I move my mouse up, the top menu appears -- otherwise you don’t  need it and it’s noise. 
+
+![alt text](https://github.com/dondenoncourt/too_many_monitors/blob/master/screen%20top%20menu.png)
+
+And I also shrink the dock icon size.
 
 ![alt text](https://github.com/dondenoncourt/too_many_monitors/blob/master/screen%20dock%20bar.png)
 
