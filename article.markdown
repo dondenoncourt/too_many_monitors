@@ -109,7 +109,7 @@ Regarding applications and tabs, if you don’t know why it's open, close it.
 
 All those open and viewable Windows are **noise distractions**. Close or overlap them. In the early 2000s I did a lot of onsite training. I found many developers would maximize their editor on their screen. I would say to them: "You aren't running Microsoft Windows, your running Microsoft Window." And then I'd recommend tiling application windows. Do you really think you need to compartmentalize with multiple monitors? Try virtual desktop options. Turning your head is harder than a simple control key stroke. When I was a free-lance contractor I used a virtual desktop for each client.
 
-I do have to admit that a big reason I like to Mac-only development is freedom. As you can see from the chicken photo above, one of my offices is my front porch. Another one is my hammock. I have the freedom to work anywhere: the beach, the doctor's office waiting room, or at the park. I'm not hampered by the unjustified requirement of an external monitor.
+I do have to admit that a big reason I like to do Mac-only development is freedom. As you can see from the chicken photo above, one of my offices is my front porch. Another one is my hammock. I have the freedom to work anywhere: the beach, the doctor's office waiting room, or at the park. I'm not hampered by the unjustified requirement of an external monitor.
 
 
 
