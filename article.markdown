@@ -21,6 +21,8 @@ iMax and monster monitors are great for big scenes. We've been viewing big scene
 
 As to multiple monitors -- my chickens can process two monitors at the same time. But their eyes are at the side of their heads to look for predators. We humans have eyes at the front to focus on one thing.
 
+![alt text](https://github.com/dondenoncourt/too_many_monitors/blob/master/chicken%20mac%20coder.png)
+
 ## Consider the Real World
 
 Hundreds of years ago, when printers began to mass produce books, a page size was carefully selected. That page size has been extremely successful and it is one we know and expect today. Web designers know this. Try as you might to expand your browser of a well designed page to the full width of your iMax-like screen, the text stays at the accepted standard of a readable 45-75 characters per line.
