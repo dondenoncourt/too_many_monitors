@@ -57,6 +57,8 @@ Shell: My bash tabbed terminal session goes in the bottom left.
 Slack: Slack goes in the bottom right and is most always (but for one character height) is overlayed by the browser or bash window.
 Others: Like Activity Monitor, SQL Editor, and Evernote,  get plopped in the middle and are closed as soon as I’m done looking at it.
 
+![alt text](https://github.com/dondenoncourt/too_many_monitors/blob/master/screen%20full.png)
+
 First note that I hide the top window on my Mac. That gives me an itty bitty bit more real estate. If I move my mouse up, the top menu appears -- otherwise you don’t  need it and it’s noise. And I also shrink the dock icon size.
 
 ### Editor
