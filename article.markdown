@@ -77,7 +77,7 @@ When my MVim tabs get past 3 or 4, I close some. If I have a crazy amount of spl
 
 ### Browser
 
-For my browser, I use the Chrome pin feature and put my common use tabs to the left: email, corporate docs (Confluence), project management (JIRA), and calendar. I use tabs for stuff. Here’s my rule for tabs: If I can’t read the titles, I have too many tabs open and need to close some. If you have a bunch of really, really important tabs you think you need open, I say book mark it. I use the bookmarks bar for heavily used links and I abbreviate or completely remove the textual title. And then I make good use of nested bookmark folders (as I covered in https://www.infoq.com/articles/relearning-learn/). Sometimes, every so often, I’ll pull a tab into its own browser window -- so I can compare it with another -- but I put it back as a tab when done.
+For my browser, I use the Chrome pin feature and put my common use tabs to the left: email, corporate docs (Confluence), project management (JIRA), and calendar. I use tabs for stuff. Here’s my rule for tabs: If I can’t read the titles, I have too many tabs open and need to close some. If you have a bunch of really, really important tabs you think you need open, I say book mark it. I use the bookmarks bar for heavily used links and I abbreviate or completely remove the textual title. And then I make good use of nested bookmark folders (as I covered in [Relearing  to Learn](https://www.infoq.com/articles/relearning-learn/) ). Sometimes, every so often, I’ll pull a tab into its own browser window -- so I can compare it with another -- but I put it back as a tab when done.
 
 ### Bash
 
