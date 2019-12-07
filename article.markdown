@@ -1,3 +1,5 @@
+# You have one too many monitors
+
 And if you do have only one monitor... It's probably too big. I work exclusively off my Macbook pro. No external monitor. No mouse. I recently started a ob where their twenty-five or so developers are treated well. Everybody gets the tools they believe will help them be productive. Even though I'm one of a half-a-dozen remote developers, I was required to be on site  my first week. I got my brand new Mac and sat down at my designated work area. It had a monstrosity of a monitor, an external keyboard, and a mouse. The coder beside me was the guy that recruited me. I'd known him for over a decade. I picked up the mouse by its tail, dangled it in mid air and said: "What's this?"
 
 My problems were just beginning. I plugged in the mouse and keyboard. Apparently, even after a  couple years of rodent free development, I was still able to use a mouse. But when I plugged in the monitor, the iMax-like screen scared me. I yelped and pushed my roller chair back into another programmer (who was otherwise happily coding on a similar Mac and monster screen configuration.) I apologized and rolled back to my workspace. I figured I better use this somewhat standard configuration or I'd look like I was more familiar with mainframe mouse-less green screens (of which I am very familiar.)
@@ -99,16 +101,14 @@ For code reading, as to color, Myself (and the [eyecare professionals](https://w
 
 My transient apps are Evernote, Activity Monitor, and an SQL Editor. So I can open them easily, I put them in the Dock. And I close them as soon as I am done the one-off task that I’m using them for.
 
-# Left-overs
 
-ScreenSaver and HazeOver
-App dimming software hides all but foremost app. Basically you have just programmatically turned your mobster monitor into a small reasonable one.
+## Close It
 
-## Close
+Regarding applications and tabs, if you don’t know why it's open, close it.
 
-All those open and viewable Windows are **noise distractions**
-Multiple monitors -- use sessions, as a contractor I used one for each client.
+All those open and viewable Windows are **noise distractions**. Close or overlap them. In the early 2000s I did a lot of onsite training. I found many developers would maximize their editor on their screen. I would say to them: "You aren't running Microsoft Windows, your running Microsoft Window." And then I'd recommend tiling application windows. Really think you need to compartmentalize with multiple monitors? Try Virtual desktop options. Turning your head is harder than a simple control key stroke. When I was a contractor I used a virtual desktop for each client.
 
-I you don’t know what it is, close it.
-Really think you need to compartmentalize with multiple monitors? Try Virtual desktop options. Turning the head is harder than a control key
+I do have to admit that a big reason I like to Mac-only development is freedom. As you can see from the chicken photo above, one of my offices is my front porch. Another one is my hammock. I have the freedom to work anywhere. I'm not hampered by the unjustified requirement of an external monitor.
+
+
 
