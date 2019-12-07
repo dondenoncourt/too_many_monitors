@@ -71,11 +71,11 @@ And I also shrink the dock icon size.
 
 ### Editor
 
-I could write a whole piece on my editor of choice -- Mac Vim. But I’ve seen too many other developers with better Vim development strategies so I won’t be writing that piece. Nevertheless, I will summary my strategy here. I open one Mac Vim session per application and make sure I overlay each vim application window. Tab-tilde toggles quickly between Vim application editor sessions. Every now and again I might drag a Vim editor window to the right side of my screen for comparison. I use Vim tabs with veritical and horizontal split screens heavily. All editors have similar vertical and horizontal code splitting features. Yet I still see folks with too many tabs open for each of the dozens of files they’ve taken a look at. I put vertical and horizontal split often for code that I’m working one. For instance, unit test code goes at the horizontal bottom with the code it tests above it. When copying or referencing similar code, I use vertical splits.
+I could write a whole piece on my editor of choice -- Mac Vim. But I’ve seen too many other developers with better Vim development strategies so I won’t be writing that piece. Nevertheless, I will summary my strategy here. I open one Mac Vim session per application and make sure I overlay each vim application window. Command-tilde toggles quickly between Vim application editor sessions. Every now and again I might drag a Vim editor window to the right side of my screen for comparison. I use Vim tabs with veritical and horizontal split screens heavily. All editors have similar vertical and horizontal code splitting features. Yet I still see folks with too many tabs open for each of the dozens of files they’ve taken a look at. I put vertical and horizontal split often for code that I’m working one. For instance, unit test code goes at the horizontal bottom with the code it tests above it. When copying or referencing similar code, I use vertical splits.
 
 Back to my comment about viewable height of code, If I have a huge file I split the source or use folding option. Most IDEs have this feature.
 
-When my Mac Vim tabs get past 3 or 4, I close some. If I have a crazy amount of splits in one tab, I close some sections. If I have a beautiful set of split code windows showing insightful information, I take a screenshot and name the image appropriately.
+When my Mac Vim tabs get past 3 or 4, I close some. If I have a crazy amount of splits in one tab, I close some sections. If I have a beautiful set of split code windows showing insightful information, I take a screenshot and name the image appropriately. Then I close some of the splits back to a more comprehensible number.
 
 ### Browser
 
