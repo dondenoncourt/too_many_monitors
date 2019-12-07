@@ -61,6 +61,8 @@ Others: Like Activity Monitor, SQL Editor, and Evernote,  get plopped in the mid
 
 First note that I hide the top window on my Mac. That gives me an itty bitty bit more real estate. If I move my mouse up, the top menu appears -- otherwise you don’t  need it and it’s noise. And I also shrink the dock icon size.
 
+![alt text](https://github.com/dondenoncourt/too_many_monitors/blob/master/screen%20dock%20bar.png)
+
 ### Editor
 
 I could write a whole piece on my editor of choice -- Mac Vim. But I’ve seen many other developers with better Vim development strategies that I won’t be writing that piece. I open one MVim session per application and make sure I overlay each vim window. Tab-tilde toggles be quickly between Vim application editor sessions. Every now and again I might drag a Vim editor window to the right side of my screen for comparison. I use Vim tabs with veritical and horizontal split screens heavily. All editors have similar vertical and horizontal code splitting features. Yet I still see folks with too many tabs open for each of the dozens of files they’ve taken a look at. I put vertical and horizontal split often for code that I’m working one. For instance, unit test code goes at the horizontal bottom with the code it tests above it. When copying or referencing similar code, I use vertical splits.
