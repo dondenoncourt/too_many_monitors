@@ -35,7 +35,7 @@ The Benjamin Franklins of the world -- a few hundred years before today's mega m
 
 The Kindle reader on my Kindle Fire 10 and iPad automatically switches to a  two pages display when I switch to landscape. Why? Because the designers at Amazon and Apple know it's easier to read when line lengths are a comprehensible 65-95 characters.
 
-Still skeptical? Consider shop and industry standard for statement length limits for code. Typically the limit is around 80 characters. Those limits are for comprehension. If you agree that 80 characters is a reasonable limit, why would you need a monitor that supports line widths that would show short stories in a single line?
+Still skeptical? Consider shop and industry standard for statement length limits in code. Typically the limit is around 80 characters. Those limits are for comprehension. If you agree that 80 characters is a reasonable limit, why would you need a monitor that supports line widths that would show short stories in a single line?
 
 Code analyzers (like Rubocop, for Ruby; or eslint, for JavaScript) check not only widths but also height. JavaScript length limits are around 100-500 lines but Ruby constraints are often only 10-30 lines per method with total file length of 150-250. These coding constraints evolved because we've learned too deep and too wide is too much [to comprehend].
 
