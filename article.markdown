@@ -61,7 +61,7 @@ Others: Like Activity Monitor, SQL Editor, and Evernote,  get plopped in the mid
 
 ![alt text](https://github.com/dondenoncourt/too_many_monitors/blob/master/screen%20full.png)
 
-First note that I hide the top window on my Mac. That gives me an itty bitty bit more real estate. If I move my mouse up, the top menu appears -- otherwise you don’t  need it and it’s noise. 
+First note that I hide the top menu on my Mac. That gives me an itty bitty bit more real estate. If I move my mouse up, the top menu appears -- otherwise you don’t need it... as it’s just noise. 
 
 ![alt text](https://github.com/dondenoncourt/too_many_monitors/blob/master/screen%20top%20menu.png)
 
@@ -71,44 +71,45 @@ And I also shrink the dock icon size.
 
 ### Editor
 
-I could write a whole piece on my editor of choice -- Mac Vim. But I’ve seen many other developers with better Vim development strategies that I won’t be writing that piece. I open one MVim session per application and make sure I overlay each vim window. Tab-tilde toggles be quickly between Vim application editor sessions. Every now and again I might drag a Vim editor window to the right side of my screen for comparison. I use Vim tabs with veritical and horizontal split screens heavily. All editors have similar vertical and horizontal code splitting features. Yet I still see folks with too many tabs open for each of the dozens of files they’ve taken a look at. I put vertical and horizontal split often for code that I’m working one. For instance, unit test code goes at the horizontal bottom with the code it tests above it. When copying or referencing similar code, I use vertical splits.
+I could write a whole piece on my editor of choice -- Mac Vim. But I’ve seen too many other developers with better Vim development strategies so I won’t be writing that piece. Nevertheless, I will summary may strategy here. I open one Mac Vim session per application and make sure I overlay each vim application window. Tab-tilde toggles quickly between Vim application editor sessions. Every now and again I might drag a Vim editor window to the right side of my screen for comparison. I use Vim tabs with veritical and horizontal split screens heavily. All editors have similar vertical and horizontal code splitting features. Yet I still see folks with too many tabs open for each of the dozens of files they’ve taken a look at. I put vertical and horizontal split often for code that I’m working one. For instance, unit test code goes at the horizontal bottom with the code it tests above it. When copying or referencing similar code, I use vertical splits.
 
 Back to my comment about viewable height of code, If I have a huge file I split the source or use folding option. Most IDEs have this feature.
 
-When my MVim tabs get past 3 or 4, I close some. If I have a crazy amount of splits in one tab, I close some sections. If I have a beautiful set of split code windows showing insightful information, I take a screenshot and name the image appropriately.
+When my Mac Vim tabs get past 3 or 4, I close some. If I have a crazy amount of splits in one tab, I close some sections. If I have a beautiful set of split code windows showing insightful information, I take a screenshot and name the image appropriately.
 
 ### Browser
 
-For my browser, I use the Chrome pin feature and put my common use tabs to the left: email, corporate docs (Confluence), project management (JIRA), and calendar. I use tabs for stuff. Here’s my rule for tabs: If I can’t read the titles, I have too many tabs open and need to close some. If you have a bunch of really, really important tabs you think you need open, I say book mark it. I use the bookmarks bar for heavily used links and I abbreviate or completely remove the textual title. And then I make good use of nested bookmark folders (as I covered in [Relearing  to Learn](https://www.infoq.com/articles/relearning-learn/) ). Sometimes, every so often, I’ll pull a tab into its own browser window -- so I can compare it with another -- but I put it back as a tab when done.
+For my browser, I use the Chrome pin feature and put my common use tabs to the left: email, corporate docs (Confluence), project management (JIRA), and calendar. I open standard tabs for other stuff. Here’s my rule for tabs: If I can’t read the titles, I have too many tabs open and need to close some. If you have a bunch of really, really important tabs you think you need open, I say book mark it. I use the bookmarks bar for heavily used links and I abbreviate or completely remove the textual title. And then I make good use of nested bookmark folders (as I covered in [Relearning to Learn](https://www.infoq.com/articles/relearning-learn/) ). Sometimes, every so often, I’ll pull a tab into its own browser window -- so I can compare it with another -- but I put it back as a tab when done.
 
 ### Bash
 
-I use a single tabbed bash terminal window. I probably resize that more often than any apps. Typically the only line of interest in a bash session is the last line output from a running process. So my bash is typically (but for the last couple of character lines) overlayed by my editor window. I resize it if I’m using a debugger or browsing through logs.
+I use a single tabbed bash terminal window. Typically I have a tab for each application running in a Docker session, I probably resize my bach window more often than any of my other Mac application windows. Typically the only line of interest in a bash session is the last line output from a running process. So my bash is typically (but for the last couple of character lines) overlayed by my editor window. I resize my bash window if I’m using a debugger or browsing through logs.
 
 ### Slack
 
-Slack is a wonderful piece of software. But it is noise as it has the human interaction we all crave. If I see a message pop into a channel, I can’t help but read it. It may be that someone’s cat did something funny and I can’t miss that! So I make sure Slack is overlaid but for the bottom. And, even then that’s only so I can quickly thumb mouse and click to open it -- when I’m ready for distractions. I enable Slack notifications for important channels.
+Slack is a wonderful piece of software. But it is noise as it provides the human interaction we all crave. If I see a message pop into a channel, I can’t help but read it. It may be that someone’s cat did something funny and I can’t miss that! So I make sure Slack is overlaid but for the bottom. And, even then that’s only so I can quickly thumb mouse and click to open it -- when I’m ready for distractions. I enable Slack notifications for important channels.
 
 ### Font Size
 
-I always use a crisp font san-serif. A bit of an aside on how I remember what san-sarif is:
-Omar Sarif was the mustasiod man of Dr. Shivago and Lawrence of Arabia. He had a thick richly curly mustache. San means without so pick a font without thickly curly mustaches.
+I always use a crisp san-serif font. A bit of an aside on how I remember what san-sarif is:
+Omar Sarif was the mustasiod man of Dr. Shivago and Lawrence of Arabia (if you aren't a boomer and haven't watched these movies, you need to.) He had a thick richly curly mustache. San means without so pick a font without thickly curly mustaches. Sorry Mr. Sarif, you can be on my big screen TV but not on my text as code on my Mac.
 
-I also use an easily readable font size. That would be two-thirds times bigger than the smallest you can read. If you visit [Mozilla Fonts](https://www-archive.mozilla.org/newlayout/testcases/css/sec526pt2.htm) You can see what size works well for you. For me the smallest font size I can read is 4 so that suggests that I should use 8 or 14 for my standard font size. When my eyes get tired, I increase my font size. The Control plus, or minus works in most apps on my mac including Vim and Chrome.
-For code reading, as to color, Myself (and the [eyecare professionals](https://www.essilorusa.com/newsroom/be-careful-color-and-font-choice-could-hurt-your-eyes)) recommend black on white or black on yellowish better than dark mode. The only time I use dark mode when it is, well, dark, where I am working.
+I also use an easily readable font size. That would be two-thirds times bigger than the smallest you can read. If you visit [Mozilla Fonts](https://www-archive.mozilla.org/newlayout/testcases/css/sec526pt2.htm) You can see what size works well for you. For me the smallest font size I can read is 4 so that suggests that I should use 8 or 14 for my standard font size. Note: when my old eyes get tired, I increase my font size. The Control plus, or minus works in most apps on my Mac including Vim and Chrome.
+
+For code reading, as to color, myself (and [eyecare professionals](https://www.essilorusa.com/newsroom/be-careful-color-and-font-choice-could-hurt-your-eyes)) recommend black on white or black on yellowish better than dark mode. The only time I use dark mode when it is, well, dark, where I am working.
 
 ### Transient Applications
 
-My transient apps are Evernote, Activity Monitor, and an SQL Editor. So I can open them easily, I put them in the Dock. And I close them as soon as I am done the one-off task that I’m using them for.
+My transient apps include Evernote, Activity Monitor, and an SQL Editor. So I can open them easily, I put them in the Dock. And I close them as soon as I am done the one-off task that I’m using them for.
 
 
 ## Close It
 
 Regarding applications and tabs, if you don’t know why it's open, close it.
 
-All those open and viewable Windows are **noise distractions**. Close or overlap them. In the early 2000s I did a lot of onsite training. I found many developers would maximize their editor on their screen. I would say to them: "You aren't running Microsoft Windows, your running Microsoft Window." And then I'd recommend tiling application windows. Really think you need to compartmentalize with multiple monitors? Try Virtual desktop options. Turning your head is harder than a simple control key stroke. When I was a contractor I used a virtual desktop for each client.
+All those open and viewable Windows are **noise distractions**. Close or overlap them. In the early 2000s I did a lot of onsite training. I found many developers would maximize their editor on their screen. I would say to them: "You aren't running Microsoft Windows, your running Microsoft Window." And then I'd recommend tiling application windows. Really think you need to compartmentalize with multiple monitors? Try virtual desktop options. Turning your head is harder than a simple control key stroke. When I was a free-lance contractor I used a virtual desktop for each client.
 
-I do have to admit that a big reason I like to Mac-only development is freedom. As you can see from the chicken photo above, one of my offices is my front porch. Another one is my hammock. I have the freedom to work anywhere. I'm not hampered by the unjustified requirement of an external monitor.
+I do have to admit that a big reason I like to Mac-only development is freedom. As you can see from the chicken photo above, one of my offices is my front porch. Another one is my hammock. I have the freedom to work anywhere: the beach, the doctor's office waiting room, or at the park. I'm not hampered by the unjustified requirement of an external monitor.
 
 
 
