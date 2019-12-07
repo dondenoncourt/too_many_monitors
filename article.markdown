@@ -88,9 +88,8 @@ Slack is a wonderful piece of software. But it is noise as it has the human inte
 I always use a crisp font san-serif. A bit of an aside on how I remember what san-sarif is:
 Omar Sarif was the mustasiod man of Dr. Shivago and Lawrence of Arabia. He had a thick richly curly mustache. San means without so pick a font without thickly curly mustaches.
 
-I also use an easily readable font size. That would be two-thirds times bigger than the smallest you can read. If you visit [Mozilla](https://www-archive.mozilla.org/newlayout/testcases/css/sec526pt2.htm) You can see that that is for you. For me the smallest font size I can read is 4 so that suggests that I should use 8 or 14 for my standard font size. When my eyes get tired, I increase my font size. The Control plus, or minus works in most apps on my mac including Vim and Chrome.
-For code reading, as to color, I recommend black on white or black on yellowish better than dark mode. The only time I use dark mode when it is, well, dark, where I am working. (See
-https://www.essilorusa.com/newsroom/be-careful-color-and-font-choice-could-hurt-your-eyes)
+I also use an easily readable font size. That would be two-thirds times bigger than the smallest you can read. If you visit [Mozilla Fonts](https://www-archive.mozilla.org/newlayout/testcases/css/sec526pt2.htm) You can see what size works well for you. For me the smallest font size I can read is 4 so that suggests that I should use 8 or 14 for my standard font size. When my eyes get tired, I increase my font size. The Control plus, or minus works in most apps on my mac including Vim and Chrome.
+For code reading, as to color, Myself (and the [eyecare professionals](https://www.essilorusa.com/newsroom/be-careful-color-and-font-choice-could-hurt-your-eyes)) recommend black on white or black on yellowish better than dark mode. The only time I use dark mode when it is, well, dark, where I am working.
 
 ### Transient Applications
 
