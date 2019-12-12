@@ -91,7 +91,7 @@ Slack is a wonderful piece of software. But it is noise as it provides the human
 
 ### Font Size
 
-I always use a crisp san-serif font (typically SF Mono Regular for Vim and bash.) A bit of an aside on how I remember what san-sarif is: Omar Sarif was the mustasiod man of Dr. Shivago and Lawrence of Arabia (if you aren't a boomer and haven't watched these movies, you need to.) He had a thick richly curly mustache. San means without so pick a font without thickly curly mustaches. Sorry Mr. Sarif, you can be on my big screen TV but not on my text as code on my Mac.
+I always use a crisp san-serif font (SF Mono Regular for Vim and bash and I love Kindle's Bookerly.) A bit of an aside on how I remember what san-sarif is: Omar Sarif was the mustasiod man of Dr. Shivago and Lawrence of Arabia (if you aren't a boomer and haven't watched these movies, you need to.) He had a thick richly curly mustache. San means without so pick a font without thickly curly mustaches. Sorry Mr. Sarif, you can be on my big screen TV but not on my text as code on my Mac.
 
 I also use an easily readable font size. That would be two-thirds times bigger than the smallest you can read. If you visit [Mozilla Fonts](https://www-archive.mozilla.org/newlayout/testcases/css/sec526pt2.htm) You can see what size works well for you. For me the smallest font size I can read is 4 so that suggests that I should use 8 or 14 for my standard font size. Note: as my old eyes get tired during the day, I increase my font size. The Control plus (or Control minus) works in most apps on my Mac including Vim and Chrome.
 
